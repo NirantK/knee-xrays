@@ -28,3 +28,4 @@ Build an image processing pipeline with two main components:
 #### Links: 
 - [Stanford MURA Dataset of Radiographs](https://stanfordmlgroup.github.io/competitions/mura/)
 - [Logo Grab Patent](https://patents.google.com/patent/US20160162758A1/en)
+- [DISFT Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6180045) on simaltaneous localisation and classification without training
