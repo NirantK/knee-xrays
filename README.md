@@ -13,7 +13,8 @@ Identifying the correct prosthetic model make from patient xray
 
 Each prosthetic model make is our *target label*
 
-Data Constraint: Number of image samples per prosthetic model made is less than 3
+Data Constraint: Number of image samples per prosthetic model made is less than 3.
+
 The data constraint effectively rules out most deep learning techniques which require a few thousand images per target label even for fine tuning.
 
 ## Proposed Solution
@@ -23,3 +24,7 @@ Build an image processing pipeline with two main components:
 - Feature Extraction - use a feature extraction suite as SIFT, VGG16 or similar 
 - Classification - in the feature space, find the top 5 most similar models from your database
   - Alternatively: Use template matching techniques here to collapse last 2 steps into one
+
+#### Links: 
+- [Stanford MURA Dataset of Radiographs](https://stanfordmlgroup.github.io/competitions/mura/)
+- [Logo Grab Patent](https://patents.google.com/patent/US20160162758A1/en)
