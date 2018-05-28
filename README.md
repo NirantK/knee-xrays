@@ -30,9 +30,6 @@ Build an image processing pipeline with two main components:
 - http://www.medicalexpo.com/medical-manufacturer/knee-prosthesis-4095.html
 - https://www.peerwell.co/blog/2016/10/03/different-types-of-knee-replacement-implants/
 
-- http://www.vividxlab.com/wiit.html
-- http://www.which-implant.com/en/
-
 The five most commonly used Knee arthroplasty / replacement implants are: PFC Sigma, AGC Biomet, Nexgen, Genesis 2, and Triathlon
 
 - http://www.orthopaediclist.com/category/implants-3.html
@@ -49,4 +46,4 @@ Dental Implant:
 #### Links: 
 - [Stanford MURA Dataset of Radiographs](https://stanfordmlgroup.github.io/competitions/mura/)
 - [Logo Grab Patent](https://patents.google.com/patent/US20160162758A1/en)
-- [DISFT Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6180045) on simaltaneous localisation and classification without training
+- [DSIFT Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6180045) on simaltaneous localisation and classification without training
