@@ -47,3 +47,4 @@ Dental Implant:
 - [Stanford MURA Dataset of Radiographs](https://stanfordmlgroup.github.io/competitions/mura/)
 - [Logo Grab Patent](https://patents.google.com/patent/US20160162758A1/en)
 - [DSIFT Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6180045) on simaltaneous localisation and classification without training
+- [HOG+Linear VSVM with Hard Negative Mining](https://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/) is useful for localization
