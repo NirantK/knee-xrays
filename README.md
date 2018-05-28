@@ -25,6 +25,27 @@ Build an image processing pipeline with two main components:
 - Classification - in the feature space, find the top 5 most similar models from your database
   - Alternatively: Use template matching techniques here to collapse last 2 steps into one
 
+### Understanding Prosthetics
+- https://orthoinfo.aaos.org/en/treatment/revision-total-knee-replacement
+- http://www.medicalexpo.com/medical-manufacturer/knee-prosthesis-4095.html
+- https://www.peerwell.co/blog/2016/10/03/different-types-of-knee-replacement-implants/
+
+- http://www.vividxlab.com/wiit.html
+- http://www.which-implant.com/en/
+
+The five most commonly used Knee arthroplasty / replacement implants are: PFC Sigma, AGC Biomet, Nexgen, Genesis 2, and Triathlon
+
+- http://www.orthopaediclist.com/category/implants-3.html
+- http://www.orthopaediclist.com/category/implant-identification.html
+- http://whichorthopaedicimplant.com/
+- https://www.realself.com/question/find-type-implant-x-ray-help
+
+Dental Implant:
+
+- http://whatimplantisthat.com/
+- http://osseosource.com/dental-implants/
+
+
 #### Links: 
 - [Stanford MURA Dataset of Radiographs](https://stanfordmlgroup.github.io/competitions/mura/)
 - [Logo Grab Patent](https://patents.google.com/patent/US20160162758A1/en)
