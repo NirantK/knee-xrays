@@ -50,3 +50,8 @@ Dental Implant:
 - [An Enhanced Tibia Fracture Detection Tool Using Image Processing and Classification Fusion Techniques in X-Ray Images](https://pdfs.semanticscholar.org/be15/0af5f4f55d8ca25127b729b97cc461ce7c25.pdf)
 - [FingerNet: Deep learning-based robust finger joint detection from radiographs](https://ieeexplore.ieee.org/document/7348440/)
 - [Development of an analysis system of the X-rays of bones for prosthesis placement](https://ieeexplore.ieee.org/document/900433/)
+
+Nirant's Reading List: 
+
+- Texture features - GLCM Mean, GLCM Variance, Energy, Entropy, Homogeneity, Gabor Orientation, Markov Random Field (MRF) and Intensity
+Gradient Direction (IGD)
