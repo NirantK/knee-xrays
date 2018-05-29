@@ -45,6 +45,11 @@ Dental Implant:
 
 #### Links: 
 - [Stanford MURA Dataset of Radiographs](https://stanfordmlgroup.github.io/competitions/mura/)
+- [HOG+Linear VSVM with Hard Negative Mining](https://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/) is useful for localization
+
+## Prior Work
 - [Logo Grab Patent](https://patents.google.com/patent/US20160162758A1/en)
 - [DSIFT Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6180045) on simaltaneous localisation and classification without training
-- [HOG+Linear VSVM with Hard Negative Mining](https://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/) is useful for localization
+- [An Enhanced Tibia Fracture Detection Tool Using Image Processing and Classification Fusion Techniques in X-Ray Images](https://pdfs.semanticscholar.org/be15/0af5f4f55d8ca25127b729b97cc461ce7c25.pdf)
+- [FingerNet: Deep learning-based robust finger joint detection from radiographs](https://ieeexplore.ieee.org/document/7348440/)
+- [Development of an analysis system of the X-rays of bones for prosthesis placement](https://ieeexplore.ieee.org/document/900433/)
