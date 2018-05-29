@@ -20,7 +20,7 @@ The data constraint effectively rules out most deep learning techniques which re
 ## Proposed Solution
 
 Build an image processing pipeline with two main components: 
-- Localisation - to extract the prosthetic model outline (countours/edges/polygon matches) 
+- Localisation/Segmentation - to extract the prosthetic model outline (countours/edges/polygon matches) 
 - Feature Extraction - use a feature extraction suite as SIFT, VGG16 or similar 
 - Classification - in the feature space, find the top 5 most similar models from your database
   - Alternatively: Use template matching techniques here to collapse last 2 steps into one
@@ -31,17 +31,14 @@ Build an image processing pipeline with two main components:
 - https://www.peerwell.co/blog/2016/10/03/different-types-of-knee-replacement-implants/
 
 The five most commonly used Knee arthroplasty / replacement implants are: PFC Sigma, AGC Biomet, Nexgen, Genesis 2, and Triathlon
-
 - http://www.orthopaediclist.com/category/implants-3.html
 - http://www.orthopaediclist.com/category/implant-identification.html
 - http://whichorthopaedicimplant.com/
 - https://www.realself.com/question/find-type-implant-x-ray-help
 
 Dental Implant:
-
 - http://whatimplantisthat.com/
 - http://osseosource.com/dental-implants/
-
 
 #### Links: 
 - [Stanford MURA Dataset of Radiographs](https://stanfordmlgroup.github.io/competitions/mura/)
