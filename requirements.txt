@@ -9,7 +9,7 @@ chardet==3.0.4
 cloudpickle==0.5.3
 clyent==1.2.2
 colorama==0.3.9
-cryptography==3.2
+cryptography==3.3.2
 cycler==0.10.0
 Cython==0.28.3
 dask==0.18.1
