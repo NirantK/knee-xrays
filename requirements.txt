@@ -53,7 +53,7 @@ Pillow==6.2.0
 prompt-toolkit==1.0.15
 pybind11==2.2.3
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 pyOpenSSL==18.0.0
 pyparsing==2.2.0
 PySocks==1.6.8
