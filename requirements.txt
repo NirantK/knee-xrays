@@ -49,7 +49,7 @@ olefile==0.45.1
 pandocfilters==1.4.2
 parso==0.2.1
 pickleshare==0.7.4
-Pillow==6.2.0
+Pillow==9.3.0
 prompt-toolkit==1.0.15
 pybind11==2.2.3
 pycparser==2.18
